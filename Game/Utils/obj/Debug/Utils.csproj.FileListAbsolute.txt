@@ -1,0 +1,5 @@
+C:\Users\CCSDuser\source\repos\Game\Utils\bin\Debug\Utils.dll
+C:\Users\CCSDuser\source\repos\Game\Utils\bin\Debug\Utils.pdb
+C:\Users\CCSDuser\source\repos\Game\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\source\repos\Game\Utils\obj\Debug\Utils.dll
+C:\Users\CCSDuser\source\repos\Game\Utils\obj\Debug\Utils.pdb

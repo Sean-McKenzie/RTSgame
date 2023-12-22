@@ -1,0 +1,13 @@
+C:\Users\CCSDuser\source\repos\Game\Game\bin\Debug\Game.exe.config
+C:\Users\CCSDuser\source\repos\Game\Game\bin\Debug\Game.exe
+C:\Users\CCSDuser\source\repos\Game\Game\bin\Debug\Game.pdb
+C:\Users\CCSDuser\source\repos\Game\Game\bin\Debug\Utils.dll
+C:\Users\CCSDuser\source\repos\Game\Game\bin\Debug\Utils.pdb
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.csprojAssemblyReference.cache
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.FrmMain.resources
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.csproj.GenerateResource.cache
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.csproj.CopyComplete
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.exe
+C:\Users\CCSDuser\source\repos\Game\Game\obj\Debug\Game.pdb
